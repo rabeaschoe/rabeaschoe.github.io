@@ -1,2 +1,0 @@
-# rabeaschoe.github.io
-Formalisierung
